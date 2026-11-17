@@ -30,6 +30,16 @@ I am a **Firmware Validation Engineer & GenAI Developer** with over 8 years of e
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay6336&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=94A3B8" alt="Top Languages" width="48%" />
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vijay6336/github-snake/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vijay6336/github-snake/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/vijay6336/github-snake/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  </picture>
+</div>
+
 ## 🤝 Connect With Me
 
 <div align="center">
