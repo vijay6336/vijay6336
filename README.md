@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./dark.svg" alt="Vijay HM - Firmware Validation & GenAI Developer" width="100%">
+    <img src="./dark.svg" alt="Neon ASCII portrait of Vijay HM with firmware validation and GenAI profile details" width="100%">
   </picture>
 </div>
 
